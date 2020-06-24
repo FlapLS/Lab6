@@ -1,0 +1,18 @@
+help
+info
+show
+clear
+show
+add
+first
+22
+33
+44
+55
+66
+DREADNOUGHT
+77
+88
+99
+show
+execute_script test_script

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpaceMarineCollection>
+    <SpaceMarine>
+        <id>521500049</id>
+        <name>4323</name>
+        <creationDate>2020-06-20</creationDate>
+        <coordinates>
+            <x>23</x>
+            <y>23</y>
+        </coordinates>
+        <health>232.0</health>
+        <achievements>23</achievements>
+        <height>32</height>
+        <category>ASSAULT</category>
+        <chapter>
+            <name>23</name>
+            <marinesCount>2</marinesCount>
+            <world>2a</world>
+        </chapter>
+    </SpaceMarine>
+</SpaceMarineCollection>

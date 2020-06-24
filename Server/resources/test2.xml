@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpaceMarineCollection>
+    <SpaceMarine>
+        <achievements>empty</achievements>
+        <category>DREADNOUGHT</category>
+        <chapter>
+            <marinesCount>12</marinesCount>
+            <name>Start</name>
+            <world>Earth</world>
+        </chapter>
+        <coordinates>
+            <x>1</x>
+            <y>1</y>
+        </coordinates>
+        <creationDate>2007-1s2-03</creationDate>
+        <health>100.0</health>
+        <height>20</height>
+        <id>1</id>
+        <name>Tite</name>
+    </SpaceMarine>
+    <SpaceMarine>
+        <achievements>empty</achievements>
+        <category>DREADNOUGHT</category>
+        <chapter>
+            <marinesCount>12</marinesCount>
+            <name>Start</name>
+            <world>Earth</world>
+        </chapter>
+        <coordinates>
+            <x>1</x>
+            <y>1</y>
+        </coordinates>
+        <creationDate>2019-12-03</creationDate>
+        <health>100.0</health>
+        <height>20</height>
+        <id>1</id>
+        <name>Tite</name>
+    </SpaceMarine>
+</SpaceMarineCollection>
